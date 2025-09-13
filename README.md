@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushagrasrv&theme=algolia&show_icons=true)](https://github.com/Kushagrasrv/github-readme-stats)
+[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api?username=obj-this-self-me&theme=algolia&show_icons=true)](https://github.com/Kushagrasrv/github-readme-stats)
 
-[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagrasrv&theme=algolia&show_icons=true)](https://github.com/Kushagrasrv/github-readme-stats)
+[![Kushagra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=obj-this-self-me&theme=algolia&show_icons=true)](https://github.com/Kushagrasrv/github-readme-stats)
